@@ -2,46 +2,24 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Flint is a starting template to optimize your digital product building.
+It's heavily opinionated and comes with several utilities and integration out of the box.
 
-## Getting Started
+## Philosophy
 
-Get started by **creating a new site**.
+Most of the time, you don't need to start from scratch.
+Flint is designed to be a starting point for your digital product.
+SaaS products for example, often share the same needs for authentication, database, storage, payments, analytics,etc.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+But Flint is not just a scaffold, it's a set of utilities, integrations, and assets for the AI-aided development, that you can use as a workflow to build your digital products.
 
-### What you'll need
+### Integrations and third parties
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+All the choices are made so that the services and providers (with an obvious exception made for Stripe) are aligned with this pricinciples :
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- Offer **free tiers** for starting projects
+- Use **open-source technology**, with frameworks and libraries that are also open source
+- Provide options to **self-host** solutions
+- Are **widely used**, and **work great with AI**
