@@ -1,39 +1,25 @@
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Get started by **creating a new project with Flint**.
 
 ### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+#### Prerequisites software
 
-## Generate a new site
+Flint assumes you have this software already installed and working on your machine.
 
-Generate a new Docusaurus site using the **classic template**.
+- [Node.js](https://nodejs.org/en/download/) version 20.0 or above, and npm
+- [Git](https://git-scm.com/downloads)
+- [Supabase CLI](https://supabase.com/docs/guides/cli)
+- [Stripe CLI](https://docs.stripe.com/cli)
+- [Docker Desktop](https://docs.docker.com/desktop/)
 
-The classic template will automatically be added to your project after you run the command:
+#### Prerequisites services
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Create a project for your product on each of these platforms.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+- [Supabase](https://supabase.com/)
+- [Stripe](https://stripe.com/)
+- [Vercel](https://vercel.com/)
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Take the time to make sure you have all the mentioned software correctly installed and a working project on each of these platforms.
 
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+<!-- ### [→ Start a new project](/docs/Start%20a%20new%20Project) -->
