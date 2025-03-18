@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 ## Setup
 
 1. [Download Flint](https://github.com/mnlcpc/flint/archive/refs/heads/main.zip) or clone the repository with `git clone https://github.com/mnlcpc/flint.git`

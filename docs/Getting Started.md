@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 Get started by **creating a new project with Flint**.
 
 ### What you'll need
