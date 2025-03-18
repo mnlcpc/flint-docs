@@ -1,3 +1,9 @@
+---
+sidebar_position: 7
+---
+
+# What's Next
+
 ## Priorities for the next iterations
 
 - [ ] Update the project and documenttion to reflect the new changes in Tailwind 4
